@@ -1,0 +1,40 @@
+
+h3 {
+  border:3px dotted black;
+  background-color:pink;
+  width:300px;
+  color:black;
+  margin:0.3em;
+  padding:0.5em;
+}
+
+ img {
+  border:5px solid black;
+  background-color:pink;
+  height:200px;
+  width:300px;
+  margin:0.3em;
+  padding:0.5em
+}
+body {
+  border:3px solid pink;
+  box-shadow: 6px 10px lightgrey;
+  margin:0.5em;
+  padding:0.5em;
+  width:340px;
+  height:600px;
+}
+p {
+  border:3px solid black;
+  background-color:pink;
+  width:305px;
+  margin:0.3em;
+  padding:0.5em;
+}
+  .info {
+    font-weight:bold;
+    font-family:Verdana;
+}
+.firstfact {
+  font-style:italic;
+}
